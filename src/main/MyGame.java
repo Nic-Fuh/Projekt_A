@@ -8,6 +8,8 @@ import java.util.ArrayList;
 
 public class MyGame extends BasicGame {
 
+    //pp :(
+
     static int width = 400;
     static int height = 400;
 
