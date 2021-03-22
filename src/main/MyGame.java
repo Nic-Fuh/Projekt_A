@@ -10,6 +10,8 @@ public class MyGame extends BasicGame {
 
     //pp :(
 
+    // Big pp popo xD
+
     static int width = 400;
     static int height = 400;
 
